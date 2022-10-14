@@ -13,6 +13,8 @@ This is a list of my favorite code resources. I've been collecting these for yea
 
 ## React and JavaScript
 
+- [Just JavaScript](https://justjavascript.com/)
+- [NetNinja Modern JavaScript](https://youtu.be/iWOYAxlnaww)
 - [React Documentation](https://reactjs.org/docs/getting-started.html): The official React documentation.
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html): React Hooks documentation.
 - [NetNinja Modern React Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d): A great tutorial for leaning React (functional components, hooks, etc.)
