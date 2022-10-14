@@ -52,6 +52,7 @@ npm run dev
 - [Rails](https://rubyonrails.org/): Ruby on Rails is a web application framework for Ruby.
 
 ```
+gem install bundler
 gem install rails
 rails new my-application
 cd my-application
