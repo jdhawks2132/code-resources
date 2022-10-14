@@ -13,7 +13,7 @@ This is a list of my favorite code resources. I've been collecting these for yea
 
 ## React and JavaScript
 
-- [Just JavaScript](https://justjavascript.com/)
+- [Just JavaScript](https://justjavascript.com/): Dan Abramov's JavaScript ... course? I'm not sure what to call it, but it's great.
 - [NetNinja Modern JavaScript](https://youtu.be/iWOYAxlnaww)
 - [React Documentation](https://reactjs.org/docs/getting-started.html): The official React documentation.
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html): React Hooks documentation.
