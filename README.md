@@ -2,12 +2,25 @@
 
 This is a list of my favorite code resources. I've been collecting these for years, and I'm finally getting around to putting them in one place. I'll be adding to this list as I find more resources.
 
-## General
+## Code Editor and Terminal
 
-- [Algo Expert](https://www.algoexpert.io/): A great resource for learning algorithms and data structures.
-- [NetNinja YouTube Channel](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): A great resource for learning web development - specifically JavaScript and React.
+- [VS Code](https://code.visualstudio.com/): My code editor of choice.
+- [iterm2](https://iterm2.com/): My terminal of choice (if you use a Mac).
+
+## Languages
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML): HTML is the standard markup language for creating web pages.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): CSS is the language for describing the presentation of Web pages.
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): JavaScript is the programming language of the Web.
+- [Python](https://www.python.org/): Python is an interpreted, high-level, general-purpose programming language.
+
+## Getting Started with Programming
+
+- [Codecademy](https://www.codecademy.com/): A great resource for learning programming.
+- [Codecademy YouTube Channel](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw): Codecademy's YouTube channel.
 - [FreeCodeCamp](https://www.freecodecamp.org/): JavaScript and web development tutorials.
 - [FreeCodeCamp YouTube Channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ): FreeCodeCamp's YouTube channel.
+- [Algo Expert](https://www.algoexpert.io/): A great resource for learning algorithms and data structures.
+- [NetNinja YouTube Channel](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): A great resource for learning web development - specifically JavaScript and React.
 - [Mosh Hamedani YouTube Channel](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA): Polyglot programmer and author of [Programming with Mosh](https://codewithmosh.com/).
 - [Vite Documentation](https://vitejs.dev/): Documentation for Vite, a build tool for modern web development.
 
